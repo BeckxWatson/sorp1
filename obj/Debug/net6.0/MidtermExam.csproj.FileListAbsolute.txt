@@ -1,0 +1,15 @@
+C:\Users\MDT-516\Desktop\MidtermExam\bin\Debug\net6.0\MidtermExam.exe
+C:\Users\MDT-516\Desktop\MidtermExam\bin\Debug\net6.0\MidtermExam.deps.json
+C:\Users\MDT-516\Desktop\MidtermExam\bin\Debug\net6.0\MidtermExam.runtimeconfig.json
+C:\Users\MDT-516\Desktop\MidtermExam\bin\Debug\net6.0\MidtermExam.dll
+C:\Users\MDT-516\Desktop\MidtermExam\bin\Debug\net6.0\MidtermExam.pdb
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.csproj.AssemblyReference.cache
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.AssemblyInfoInputs.cache
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.AssemblyInfo.cs
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.csproj.CoreCompileInputs.cache
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.dll
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\refint\MidtermExam.dll
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.pdb
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\MidtermExam.genruntimeconfig.cache
+C:\Users\MDT-516\Desktop\MidtermExam\obj\Debug\net6.0\ref\MidtermExam.dll
